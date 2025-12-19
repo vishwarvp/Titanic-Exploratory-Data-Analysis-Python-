@@ -6,8 +6,6 @@ Each project follows the same **12-step EDA process** to ensure clean, reliable,
 2. 🗂️ Projects Included
 
     1. Titanic Dataset EDA
-    2. Taxi Data Analysis
-    3. MPG (Mileage per Gallon) Dataset EDA
 
 Each project includes:
     
